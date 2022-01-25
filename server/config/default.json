@@ -2,5 +2,6 @@
   "serverPort" : 5000,
   "dbUrl": "mongodb+srv://Admin:Admin123@cloud.z2tel.mongodb.net/cloud?retryWrites=true&w=majority",
   "secretKey": "mern-secret-key",
-  "filePath": "D:\\userfiles"
+  "filePath": "D:\\userfiles",
+  "staticPath": "D:\\static"
 }
